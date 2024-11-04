@@ -374,6 +374,7 @@
             MaximizeBox = false;
             MinimizeBox = false;
             Name = "ResolveIssue";
+            ShowInTaskbar = false;
             StartPosition = FormStartPosition.CenterParent;
             Text = "Resolve Issue";
             Load += ResolveIssue_Load;

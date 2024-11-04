@@ -126,6 +126,7 @@
             MaximizeBox = false;
             MinimizeBox = false;
             Name = "ModifyUsers";
+            ShowInTaskbar = false;
             StartPosition = FormStartPosition.CenterParent;
             Text = "Modify Users";
             Load += ModifyUsers_Load;

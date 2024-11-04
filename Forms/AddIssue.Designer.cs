@@ -367,6 +367,7 @@
             MaximizeBox = false;
             MinimizeBox = false;
             Name = "AddIssue";
+            ShowInTaskbar = false;
             StartPosition = FormStartPosition.CenterParent;
             Text = "Add Issue";
             Load += AddIssue_Load;
