@@ -3,6 +3,10 @@
 ##
 ## Get latest from https://github.com/github/gitignore/blob/main/VisualStudio.gitignore
 
+# Specific Excludes:
+LabelWriter.cs
+Schnitz_Logo.png
+
 # User-specific files
 *.rsuser
 *.suo
@@ -97,6 +101,8 @@ StyleCopReport.xml
 *.pidb
 *.svclog
 *.scc
+*.sln
+*.csproj
 
 # Chutzpah Test files
 _Chutzpah*
